@@ -140,7 +140,7 @@ export default class Intro extends Phaser.Scene {
 
     // text_1
     const text_1 = this.add.text(200, 20, "", {});
-    text_1.text = "우리 곁의 고려";
+    text_1.text = "우리 수정사항 곁의 고려";
     text_1.setStyle({
       color: "#161844",
       fontFamily: "KoddiUDOnGothic-ExtraBold",
@@ -150,7 +150,7 @@ export default class Intro extends Phaser.Scene {
 
     // text_3
     const text_3 = this.add.text(40, 110, "", {});
-    text_3.text = "우리 곁에 남아있는 고려의 흔적 \n세 가지를 선택해 보세요.";
+    text_3.text = "우리 곁에 남아있는 수정사항수정사항 \n수정사항수정사항 선택해 보세요.";
     text_3.setStyle({
       align: "right",
       color: "#161844",
@@ -206,7 +206,7 @@ export default class Intro extends Phaser.Scene {
       round: 25,
       bgColor: 0xffffff,
       color: "#144E79",
-      text: "고려의 흔적 세가지를 선택해 보세요.\n" + "고려의 여행지를 추천해 드려요.",
+      text: "수정사항.\n" + "수정사항수정사항수정사항수정사항.",
       textAddY: 100,
       align: "center",
       blackLayer: true,
@@ -477,21 +477,21 @@ export default class Intro extends Phaser.Scene {
     if (!this.explanationPopupCon) {
       this.explData = {
         img_wjs: {
-          head: "월정사",
+          head: "수정사항수정사항",
           img: "img_wjs",
           setScale: 0.4,
           text: "월정사 팔각구층석탑은 고려를 대표하는 탑이에요. 북한을 제외한 남한에 남아있는 유일한 고려의 팔각구층석탑이랍니다.",
         },
         img_bgz: {
-          head: "본관제",
+          head: "수정사항수정사항",
           img: "img_bgz",
           setScale: 0.7,
           text:
-            "본관은 사람의 거주지나 출신지를 말해요. 태조 왕건은 공을 세운 지방 호족에게 " +
+            "수정사항수정사항수정사항 사람의 거주지나 출신지를 말해요. 태조 왕건은 공을 세운 지방 호족에게 " +
             "성씨를 주고, 그 지역을 본관으로 삼게 했어요.",
         },
         img_is: {
-          head: "인삼",
+          head: "수정사항수정사항",
           img: "img_is",
           setScale: 0.4,
           text:
@@ -501,7 +501,7 @@ export default class Intro extends Phaser.Scene {
             "있어요.",
         },
         img_sgg: {
-          head: "성균관",
+          head: "수정사항수정사항수정사항",
           img: "img_sgg",
           setScale: 0.7,
           text:
@@ -511,7 +511,7 @@ export default class Intro extends Phaser.Scene {
             "",
         },
         img_gr: {
-          head: "강릉단오제",
+          head: "수정사항수정사항수정사항",
           img: "img_gr",
           setScale: 0.4,
           text:
@@ -520,13 +520,13 @@ export default class Intro extends Phaser.Scene {
             "되었어요.",
         },
         img_cra: {
-          head: "코리아",
+          head: "수정사항수정사항수정사항수정사항수정사항",
           img: "img_cra",
           setScale: 0.8,
           text: "고려의 국제 무역항인 벽란도를 다녀간 아라비아 상인들에 의해 고려는 코리아라는 이름으로 세상에 알려졌어요.",
         },
         img_gmw: {
-          head: "공무원 시험",
+          head: "수정사항수정사항수정사항수정사항 시험",
           img: "img_gmw",
           setScale: 0.35,
           text:
@@ -536,7 +536,7 @@ export default class Intro extends Phaser.Scene {
             "공무원 시험으로 이어지고 있어요.",
         },
         img_pmdjg: {
-          head: "팔만대장경",
+          head: "수정사항수정사항수정사항",
           img: "img_pmdjg",
           setScale: 0.8,
           text:
