@@ -78,7 +78,7 @@ export default class Start extends Phaser.Scene {
 
     // text_1
     const text_1 = this.add.text(-37, 2, "", {});
-    text_1.text = "우리가수정사항수정사항수정사항수정사항 몰랐던 고려를 탐험하는";
+    text_1.text = "우리가 몰랐던 고려를 탐험하는";
     text_1.setStyle({
       color: "#434343",
       fontFamily: "KoddiUDOnGothic-ExtraBold",
@@ -88,7 +88,7 @@ export default class Start extends Phaser.Scene {
 
     // text
     const text = this.add.text(26, 316, "", {});
-    text.text = "디지수정사항수정사항수정사항털 탐구 활동";
+    text.text = "디지털 탐구 활동";
     text.setStyle({
       color: "#434343",
       fontFamily: "KoddiUDOnGothic-ExtraBold",
@@ -98,7 +98,7 @@ export default class Start extends Phaser.Scene {
 
     // text_2
     const text_2 = this.add.text(-19, 47, "", {});
-    text_2.text = "우리수정사항수정사항곁의";
+    text_2.text = "우리곁의";
     text_2.setStyle({
       color: "#434343",
       fontFamily: "KoddiUDOnGothic-ExtraBold",

@@ -15,7 +15,7 @@ const moment = require("moment");
 const useragent = require("express-useragent");
 
 const graphqlPath = "/museumplay/gr";
-const port = "1515";
+const port = "4183";
 
 const app = express();
 app.use(cors());
@@ -72,10 +72,6 @@ app.get("/", function (req, res) {
 });
 
 app.use("/museumplay/goryeo-ro", express.static("public/dist"));
-
-app.use("/museumplay", express.static("public/dist"));
-
-
 // app.get('/museumplay', function(req, res) {
 //     res.redirect('https://modu.museum.go.kr/together/museum_play');
 // });
