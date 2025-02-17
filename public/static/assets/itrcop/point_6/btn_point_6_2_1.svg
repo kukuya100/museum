@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.47 155.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5e5e5e;
+      }
+
+      .cls-2 {
+        fill: #424242;
+      }
+
+      .cls-3 {
+        stroke: #777;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: none;
+        stroke-width: 1.51px;
+      }
+
+      .cls-4 {
+        fill: #fff0a9;
+        stroke: #fff;
+        stroke-width: 2.26px;
+      }
+
+      .cls-7 {
+        fill: #1c1c1c;
+      }
+
+      .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        stroke: #1c1c1c;
+      }
+    </style>
+  </defs>
+  <g id="button">
+    <g>
+      <circle class="cls-4" cx="77.73" cy="77.73" r="76.6"/>
+      <g>
+        <polygon class="cls-1" points="133.45 66.41 42.16 91.08 24.74 68.39 115.52 43.72 133.45 66.41"/>
+        <polygon class="cls-2" points="24.74 68.39 24.74 88.37 42.16 109.83 42.16 91.08 24.74 68.39"/>
+        <polygon class="cls-7" points="42.16 91.08 42.16 109.83 133.45 83.93 133.45 66.41 42.16 91.08"/>
+        <polyline class="cls-3" points="25.36 68.76 42.16 91.08 133.45 66.41"/>
+        <polyline class="cls-3" points="35.9 72.09 108.62 52.48 117.5 63.58"/>
+        <polyline class="cls-6" points="35.9 72.09 44.97 83.31 117.5 63.58"/>
+        <polygon class="cls-5" points="115.52 43.72 24.74 68.39 24.74 88.37 42.16 109.83 133.45 83.93 133.45 66.41 115.52 43.72"/>
+      </g>
+    </g>
+  </g>
+</svg>

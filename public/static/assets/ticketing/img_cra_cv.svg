@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265.199" height="189.954" viewBox="0 0 265.199 189.954">
+  <g id="오브제_코리아_남산" transform="translate(-1433.301 -79.383)">
+    <g id="남산타워">
+      <rect id="사각형_102" data-name="사각형 102" width="16.152" height="6.234" transform="translate(1486.838 172.302)" fill="#acacac"/>
+      <rect id="사각형_103" data-name="사각형 103" width="6.694" height="31.767" transform="translate(1491.568 129.308)" fill="#c9c9c9"/>
+      <rect id="사각형_104" data-name="사각형 104" width="6.694" height="4.727" transform="translate(1491.568 161.961)" fill="#c9c9c9"/>
+      <rect id="사각형_105" data-name="사각형 105" width="6.694" height="4.727" transform="translate(1491.568 167.575)" fill="#c9c9c9"/>
+      <path id="패스_274" data-name="패스 274" d="M1315.843,371.293l4.869,3.376h7.588l4.871-3.376Z" transform="translate(170.408 -244.779)" fill="#9c9c9c"/>
+      <rect id="사각형_106" data-name="사각형 106" width="17.328" height="10.611" transform="translate(1486.25 115.903)" fill="#c9c9c9"/>
+      <rect id="사각형_107" data-name="사각형 107" width="13.368" height="7.291" transform="translate(1488.231 108.612)" fill="#a3a3a3"/>
+      <rect id="사각형_108" data-name="사각형 108" width="11.093" height="1.531" transform="translate(1489.368 107.081)" fill="#d4d4d4"/>
+      <rect id="사각형_109" data-name="사각형 109" width="12.031" height="1.006" transform="translate(1488.898 106.074)" fill="#8b8b8b"/>
+      <rect id="사각형_110" data-name="사각형 110" width="4.019" height="5.339" transform="translate(1492.905 100.736)" fill="#8b8b8b"/>
+      <rect id="사각형_111" data-name="사각형 111" width="3.077" height="5.339" transform="translate(1493.376 95.397)" fill="#eaeaea"/>
+      <rect id="사각형_112" data-name="사각형 112" width="2.291" height="5.339" transform="translate(1493.769 90.06)" fill="#8b8b8b"/>
+      <rect id="사각형_113" data-name="사각형 113" width="0.448" height="5.339" transform="translate(1494.692 79.383)" fill="#8b8b8b"/>
+      <rect id="사각형_114" data-name="사각형 114" width="1.393" height="5.339" transform="translate(1494.219 84.721)" fill="#eaeaea"/>
+      <rect id="사각형_115" data-name="사각형 115" width="7.963" height="1.965" transform="translate(1490.933 159.998)" fill="#acacac"/>
+      <rect id="사각형_116" data-name="사각형 116" width="7.963" height="1.503" transform="translate(1490.933 166.073)" fill="#acacac"/>
+      <rect id="사각형_117" data-name="사각형 117" width="17.328" height="2.128" transform="translate(1486.25 117.578)" fill="#acacac"/>
+      <rect id="사각형_118" data-name="사각형 118" width="17.328" height="2.128" transform="translate(1486.25 122.113)" fill="#acacac"/>
+      <rect id="사각형_119" data-name="사각형 119" width="13.368" height="1.419" transform="translate(1488.231 110.036)" fill="#858585"/>
+      <rect id="사각형_120" data-name="사각형 120" width="13.368" height="1.419" transform="translate(1488.231 113.06)" fill="#858585"/>
+    </g>
+    <g id="산">
+      <path id="패스_275" data-name="패스 275" d="M1280.534,514l34.116-77.816a25.159,25.159,0,0,1,22.932-14.81h26.756l26.15-41.291a18.419,18.419,0,0,1,31.23.172L1504.381,514Z" transform="translate(152.767 -244.665)" fill="#c9c3c0"/>
+      <path id="패스_276" data-name="패스 276" d="M1361.787,499.229s29.772-99.568,66.162-98.125,77.189,98.125,77.189,98.125Z" transform="translate(193.364 -229.892)" fill="#c1bab6"/>
+      <rect id="사각형_121" data-name="사각형 121" width="31.515" height="1.406" transform="translate(1483.727 228.64) rotate(-69.789)" fill="#a5a2a0"/>
+      <rect id="사각형_122" data-name="사각형 122" width="1.406" height="29.286" transform="translate(1525.962 199.406) rotate(-8.297)" fill="#a5a2a0"/>
+      <rect id="사각형_123" data-name="사각형 123" width="29.484" height="1.405" transform="matrix(0.185, -0.983, 0.983, 0.185, 1553.733, 202.795)" fill="#a5a2a0"/>
+      <rect id="사각형_124" data-name="사각형 124" width="25.134" height="1.404" transform="translate(1590.618 233.431) rotate(-65.9)" fill="#a5a2a0"/>
+      <rect id="사각형_125" data-name="사각형 125" width="1.405" height="29.588" transform="translate(1621.346 210.186) rotate(-1.167)" fill="#a5a2a0"/>
+      <rect id="사각형_126" data-name="사각형 126" width="1.406" height="27.282" transform="translate(1641.937 211.071) rotate(-24.864)" fill="#a5a2a0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="970" height="902" viewBox="0 0 970 902">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="popup_background" d="M25,0H935a25,25,0,0,1,25,25V540a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(60 708)" fill="#fff" stroke="#ebe2db" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="_240812__15_튜토리얼02_popup2" data-name="240812_[15]튜토리얼02_popup2" transform="translate(-60 -645)">
+    <g id="팝업_유물카드" transform="translate(0 -63)">
+      <rect id="popup_background-2" data-name="popup_background" width="960" height="799" rx="25" transform="translate(70 718)" fill="#c1c1c1" opacity="0.7"/>
+      <g id="popup_background-3" data-name="popup_background" transform="translate(60 708)" fill="#fff" stroke="#ebe2db" stroke-width="4">
+        <rect width="960" height="799" rx="25" stroke="none"/>
+        <rect x="2" y="2" width="956" height="795" rx="23" fill="none"/>
+      </g>
+      <g id="마스크_그룹_1" data-name="마스크 그룹 1" clip-path="url(#clip-path)">
+        <rect id="사각형_1751" data-name="사각형 1751" width="960" height="540" transform="translate(60 708)" fill="#eee"/>
+      </g>
+      <g id="popup_border" transform="translate(60 708)" fill="none" stroke="#ebe2db" stroke-width="4">
+        <rect width="960" height="799" rx="25" stroke="none"/>
+        <rect x="2" y="2" width="956" height="795" rx="23" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

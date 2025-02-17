@@ -1,0 +1,170 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcdi/2/0_1.png",
+        "type": "image",
+        "key": "0_1"
+      },
+      {
+        "url": "assets/itrcdi/2/0_2.png",
+        "type": "image",
+        "key": "0_2"
+      },
+      {
+        "url": "assets/itrcdi/2/0_3.png",
+        "type": "image",
+        "key": "0_3"
+      },
+      {
+        "url": "assets/itrcdi/2/0_4.png",
+        "type": "image",
+        "key": "0_4"
+      },
+      {
+        "url": "assets/animations.json",
+        "type": "animation",
+        "key": "animations"
+      },
+      {
+        "url": "assets/itrcdi/point_2/bg_point_1.png",
+        "type": "image",
+        "key": "bg_point_1"
+      },
+      {
+        "url": "assets/itrcdi/point_2/bg_ract.png",
+        "type": "image",
+        "key": "bg_ract"
+      },
+      {
+        "url": "assets/itrcdi/point_2/bg_div_point_2_21.png",
+        "type": "image",
+        "key": "bg_div_point_2_21"
+      },
+      {
+        "url": "assets/itrcdi/point_2/ico_no1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no1"
+      },
+      {
+        "url": "assets/itrcdi/point_2/ico_no2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no2"
+      },
+      {
+        "url": "assets/itrcdi/point_2/ico_no3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no3"
+      },
+      {
+        "url": "assets/itrcdi/point_2/img_alcohol.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_alcohol"
+      },
+      {
+        "url": "assets/lp/di/img_point_2.png",
+        "type": "image",
+        "key": "img_point_2"
+      },
+      {
+        "url": "assets/itrcdi/point_2/img_point_2_5.png",
+        "type": "image",
+        "key": "img_point_2_5"
+      },
+      {
+        "url": "assets/itrcdi/point_2/img_point_2_6.png",
+        "type": "image",
+        "key": "img_point_2_6"
+      },
+      {
+        "url": "assets/itrcdi/point_2/img_water.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_water"
+      },
+      {
+        "url": "assets/itrcdi/point_2/sp_alcohol_1.png",
+        "frameConfig": {
+          "frameWidth": 534,
+          "frameHeight": 72,
+          "startFrame": 0,
+          "endFrame": -1,
+          "spacing": 0,
+          "margin": 0
+        },
+        "type": "spritesheet",
+        "key": "sp_alcohol_1"
+      },
+      {
+        "url": "assets/itrcdi/point_2/sp_alcohol_2.png",
+        "frameConfig": {
+          "frameWidth": 534,
+          "frameHeight": 72,
+          "startFrame": 0,
+          "endFrame": -1,
+          "spacing": 0,
+          "margin": 0
+        },
+        "type": "spritesheet",
+        "key": "sp_alcohol_2"
+      },
+      {
+        "url": "assets/itrcdi/point_2/sp_water_1.png",
+        "frameConfig": {
+          "frameWidth": 534,
+          "frameHeight": 72,
+          "startFrame": 0,
+          "endFrame": -1,
+          "spacing": 0,
+          "margin": 0
+        },
+        "type": "spritesheet",
+        "key": "sp_water_1"
+      },
+      {
+        "url": "assets/itrcdi/point_2/sp_water_2.png",
+        "frameConfig": {
+          "frameWidth": 534,
+          "frameHeight": 72,
+          "startFrame": 0,
+          "endFrame": -1,
+          "spacing": 0,
+          "margin": 0
+        },
+        "type": "spritesheet",
+        "key": "sp_water_2"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

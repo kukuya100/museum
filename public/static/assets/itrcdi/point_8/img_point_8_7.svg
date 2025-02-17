@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="847.12" height="972.964" viewBox="0 0 847.12 972.964">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.505" cy="0.514" r="0.498" gradientTransform="translate(0 -0.005) scale(1 1.01)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.4"/>
+      <stop offset="0.92" stop-opacity="0.071"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.21" stop-color="#262626"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.18" x2="0.5" y2="0.637" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#725900"/>
+      <stop offset="1" stop-color="#4f4740"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.369" r="0.447" gradientTransform="translate(0.043 0.1) scale(0.913 0.73)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1dbe5"/>
+      <stop offset="1" stop-color="#c4c4c4"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <path id="패스_10149" data-name="패스 10149" d="M426.6,675.565c143.311,0,259.5-116.174,259.5-259.5a261.393,261.393,0,0,0-4.79-49.8c-43.782-97.014-141.357-164.526-254.7-164.526s-210.913,67.522-254.7,164.526a260.584,260.584,0,0,0-4.79,49.8c0,143.311,116.174,259.5,259.5,259.5Z" transform="translate(-167.12 -201.74)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="향완" transform="translate(0)">
+    <g id="그룹_3914" data-name="그룹 3914" transform="translate(0 0)">
+      <circle id="타원_19" data-name="타원 19" cx="423.56" cy="423.56" r="423.56" transform="translate(0 125.844)" fill="url(#radial-gradient)"/>
+      <g id="그룹_3910" data-name="그룹 3910" transform="translate(17.036)">
+        <circle id="타원_20" data-name="타원 20" cx="302.165" cy="302.165" r="302.165" transform="translate(107.746 290.22)" fill="url(#linear-gradient)"/>
+        <circle id="타원_21" data-name="타원 21" cx="409.901" cy="409.901" r="409.901" transform="translate(0.01 27.798)" fill="#0f0f0f"/>
+        <circle id="타원_22" data-name="타원 22" cx="409.901" cy="409.901" r="409.901" transform="translate(0.01)" fill="url(#linear-gradient-2)"/>
+        <circle id="타원_23" data-name="타원 23" cx="259.495" cy="259.495" r="259.495" transform="translate(150.416 157.01)" fill="#0f0f0f"/>
+        <path id="패스_10134" data-name="패스 10134" d="M426.911,814.082c-224.993,0-407.636-181.271-409.881-405.733-.01,1.393-.03,2.776-.03,4.169,0,226.386,183.526,409.9,409.9,409.9S836.8,638.9,836.8,412.519c0-1.393-.01-2.776-.03-4.169-2.235,224.462-184.888,405.733-409.881,405.733Z" transform="translate(-17 0.86)" fill="#686868"/>
+        <path id="패스_10135" data-name="패스 10135" d="M426.846,37.516c208.007,0,376.862,167.582,378.926,375.1.01-1.283.02-2.565.02-3.858,0-209.29-169.666-378.956-378.956-378.956S47.88,199.466,47.88,408.756c0,1.283.01,2.565.02,3.858C49.984,205.108,218.839,37.516,426.846,37.516Z" transform="translate(-16.935 0.063)" fill="#38322d"/>
+        <path id="패스_10136" data-name="패스 10136" d="M426.6,675.565c143.311,0,259.5-116.174,259.5-259.5a261.393,261.393,0,0,0-4.79-49.8c-43.782-97.014-141.357-164.526-254.7-164.526s-210.913,67.522-254.7,164.526a260.584,260.584,0,0,0-4.79,49.8c0,143.311,116.174,259.5,259.5,259.5Z" transform="translate(-16.684 0.425)" fill="url(#radial-gradient-2)"/>
+      </g>
+      <g id="그룹_3912" data-name="그룹 3912" transform="translate(167.472 202.165)" clip-path="url(#clip-path)">
+        <g id="그룹_3911" data-name="그룹 3911" transform="translate(-8.137 -7.175)">
+          <circle id="타원_24" data-name="타원 24" cx="13.358" cy="13.358" r="13.358" transform="translate(248.191 192.745)" fill="#b1b1b1"/>
+          <path id="패스_10137" data-name="패스 10137" d="M165,489.746,390.474,410.58l-219.461,96.2Z" transform="translate(-158.987 -194.125)" fill="#b1b1b1"/>
+          <path id="패스_10138" data-name="패스 10138" d="M216,564.873,404.4,425.58,229.027,599.946Z" transform="translate(-158.88 -194.094)" fill="#b1b1b1"/>
+          <path id="패스_10139" data-name="패스 10139" d="M438,435.58l65.137,244.514,27.057-12.025Z" transform="translate(-158.413 -194.073)" fill="#b1b1b1"/>
+          <path id="패스_10140" data-name="패스 10140" d="M460,405.58l233.49,82.173L687.478,508.8Z" transform="translate(-158.366 -194.136)" fill="#b1b1b1"/>
+          <path id="패스_10141" data-name="패스 10141" d="M482,352.8,599.246,246.58l20.042,21.044Z" transform="translate(-158.32 -194.471)" fill="#b1b1b1"/>
+          <path id="패스_10142" data-name="패스 10142" d="M394.171,347.87,313,219.6l17.036-10.021Z" transform="translate(-158.676 -194.548)" fill="#b1b1b1"/>
+          <path id="패스_10143" data-name="패스 10143" d="M439.032,194.58,424,360.929,447.048,194.58Z" transform="translate(-158.442 -194.58)" fill="#b1b1b1"/>
+          <path id="패스_10144" data-name="패스 10144" d="M222.023,280.58l155.326,99.208L211,299.62Z" transform="translate(-158.891 -194.399)" fill="#b1b1b1"/>
+          <path id="패스_10145" data-name="패스 10145" d="M518,381.664,674.328,341.58l6.013,14.029Z" transform="translate(-158.244 -194.271)" fill="#b1b1b1"/>
+          <path id="패스_10146" data-name="패스 10146" d="M407.112,490.58,354,668.955l11.023,7.015Z" transform="translate(-158.589 -193.957)" fill="#b1b1b1"/>
+          <path id="패스_10147" data-name="패스 10147" d="M479,481.58l95.2,162.341L586.225,633.9Z" transform="translate(-158.326 -193.976)" fill="#b1b1b1"/>
+          <path id="패스_10148" data-name="패스 10148" d="M159,438.643,326.352,408.58,162.006,449.666Z" transform="translate(-159 -194.13)" fill="#b1b1b1"/>
+        </g>
+      </g>
+      <g id="그룹_3913" data-name="그룹 3913" transform="translate(272.783 278.585)">
+        <rect id="사각형_3584" data-name="사각형 3584" width="302.215" height="302.215" rx="30" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" stroke-dasharray="6.97 11.96"/>
+        <rect id="사각형_3585" data-name="사각형 3585" width="302.215" height="302.215" rx="30" fill="#fff" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

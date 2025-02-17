@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="290.2" height="47.3" viewBox="0 0 290.2 47.3">
+  <g id="ticket">
+    <g>
+      <rect x="0" width="290.2" height="47.3" fill="#fff" stroke-width="0"/>
+      <g>
+        <path d="m15.1,17.1l1,1.8,4.5,4.5h.7v-8.3h2.1v16.7h-2.1v-4.2l-1-1.7-4.5-4.5h-.7v10.4h-2.1V15h2.1v2.1Z" fill="#73748d" stroke-width="0"/>
+        <path d="m29.1,30.4l-.3-.3-1.2-2.9v-3.6l1.2-2.9.3-.3,2.7-1.2h1.9l2.7,1.2.3.3,1.2,2.9v3.6l-1.2,2.9-.3.3-2.7,1.2h-1.9l-2.7-1.2Zm1.8-8.7l-.8.9-.5,1.6v2.6l.5,1.6.8.8,1.4.5h.8l1.4-.5.8-.8.5-1.6v-2.6l-.5-1.6-.8-.9-1.4-.5h-.8l-1.4.5Z" fill="#73748d" stroke-width="0"/>
+        <path d="m41.8,29.6h4.2v2.1h-4.2v-2.1Z" fill="#73748d" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="528" viewBox="0 0 70 528">
+  <g id="표시_내시김수의딸" transform="translate(-464 -333)">
+    <g id="그룹_3724" data-name="그룹 3724">
+      <g id="사각형_3434" data-name="사각형 3434" transform="translate(500 621)" fill="rgba(255,255,255,0.2)" stroke="#598dff" stroke-width="2">
+        <rect width="32" height="211" rx="10" stroke="none"/>
+        <rect x="-1" y="-1" width="34" height="213" rx="11" fill="none"/>
+      </g>
+      <g id="사각형_3435" data-name="사각형 3435" transform="translate(466 335)" fill="rgba(255,255,255,0.2)" stroke="#598dff" stroke-width="2">
+        <rect width="32" height="111" rx="10" stroke="none"/>
+        <rect x="-1" y="-1" width="34" height="113" rx="11" fill="none"/>
+      </g>
+      <g id="사각형_3432" data-name="사각형 3432" transform="translate(500 834)" fill="rgba(255,255,255,0.2)" stroke="#598dff" stroke-width="2">
+        <rect width="32" height="25" rx="10" stroke="none"/>
+        <rect x="-1" y="-1" width="34" height="27" rx="11" fill="none"/>
+      </g>
+    </g>
+    <g id="버튼_내시김수의딸">
+      <g id="사각형_3433" data-name="사각형 3433" transform="translate(500 359)" fill="rgba(89,141,255,0.3)" stroke="#598dff" stroke-width="2">
+        <rect width="32" height="260" rx="10" stroke="none"/>
+        <rect x="-1" y="-1" width="34" height="262" rx="11" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

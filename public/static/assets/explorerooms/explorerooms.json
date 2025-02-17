@@ -1,0 +1,104 @@
+{
+    "section1": {
+      "files": [
+        {
+          "url": "assets/explorerooms/map_diversity.png",
+          "type": "image",
+          "key": "map_diversity"
+        },
+        {
+          "url": "assets/explorerooms/div_1.png",
+          "type": "image",
+          "key": "div_1"
+        },
+        {
+          "url": "assets/explorerooms/div_2.png",
+          "type": "image",
+          "key": "div_2"
+        },
+        {
+          "url": "assets/explorerooms/div_3.png",
+          "type": "image",
+          "key": "div_3"
+        },
+        {
+          "url": "assets/explorerooms/div_4.png",
+          "type": "image",
+          "key": "div_4"
+        },
+        {
+          "url": "assets/explorerooms/div_5.png",
+          "type": "image",
+          "key": "div_5"
+        },
+        {
+          "url": "assets/explorerooms/div_6.png",
+          "type": "image",
+          "key": "div_6"
+        },
+        {
+          "url": "assets/explorerooms/div_7.png",
+          "type": "image",
+          "key": "div_7"
+        },
+        {
+          "url": "assets/explorerooms/div_8.png",
+          "type": "image",
+          "key": "div_8"
+        },
+        {
+          "url": "assets/explorerooms/map_openness.png",
+          "type": "image",
+          "key": "map_openness"
+        },
+        {
+          "url": "assets/explorerooms/open_1.png",
+          "type": "image",
+          "key": "open_1"
+        },
+        {
+          "url": "assets/explorerooms/open_2.png",
+          "type": "image",
+          "key": "open_2"
+        },
+        {
+          "url": "assets/explorerooms/open_3.png",
+          "type": "image",
+          "key": "open_3"
+        },
+        {
+          "url": "assets/explorerooms/open_4.png",
+          "type": "image",
+          "key": "open_4"
+        },
+        {
+          "url": "assets/explorerooms/open_5.png",
+          "type": "image",
+          "key": "open_5"
+        },
+        {
+          "url": "assets/explorerooms/open_6.png",
+          "type": "image",
+          "key": "open_6"
+        },
+        {
+          "url": "assets/explorerooms/open_7.png",
+          "type": "image",
+          "key": "open_7"
+        },
+        {
+          "url": "assets/explorerooms/open_8.png",
+          "type": "image",
+          "key": "open_8"
+        }
+      ]
+    },
+    "meta": {
+      "app": "Phaser Editor 2D - Asset Pack Editor",
+      "contentType": "phasereditor2d.pack.core.AssetContentType",
+      "url": "https://phasereditor2d.com",
+      "version": 2,
+      "showAllFilesInBlocks": false
+    }
+  }
+  

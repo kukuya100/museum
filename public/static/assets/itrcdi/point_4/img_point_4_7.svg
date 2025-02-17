@@ -1,0 +1,43 @@
+<svg id="효과_분" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="365.602" height="329.965" viewBox="0 0 365.602 329.965">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_5088" data-name="사각형 5088" width="365.602" height="329.965" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_5084" data-name="사각형 5084" width="72.284" height="72.757" transform="translate(0 256.537)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="사각형_5085" data-name="사각형 5085" width="82.627" height="75.148" transform="translate(282.975 254.817)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="사각형_5086" data-name="사각형 5086" width="78.716" height="84.623" transform="translate(147.184)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_6763" data-name="그룹 6763" clip-path="url(#clip-path)">
+    <g id="그룹_6762" data-name="그룹 6762">
+      <g id="그룹_6761" data-name="그룹 6761" clip-path="url(#clip-path)">
+        <g id="그룹_6754" data-name="그룹 6754" opacity="0.2">
+          <g id="그룹_6753" data-name="그룹 6753">
+            <g id="그룹_6752" data-name="그룹 6752" clip-path="url(#clip-path-3)">
+              <path id="패스_16497" data-name="패스 16497" d="M68.754,275.753a23.594,23.594,0,0,0-45.273-3.909,23.59,23.59,0,1,0,4.495,46.77c.287-.054.569-.119.851-.183a23.591,23.591,0,1,0,37.925-27.9,23.488,23.488,0,0,0,2-14.773" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="그룹_6757" data-name="그룹 6757" opacity="0.3">
+          <g id="그룹_6756" data-name="그룹 6756">
+            <g id="그룹_6755" data-name="그룹 6755" clip-path="url(#clip-path-4)">
+              <path id="패스_16498" data-name="패스 16498" d="M353.021,314.393a28.27,28.27,0,0,0-28.275-48.831c-.146-.237-.291-.474-.447-.707A22.558,22.558,0,1,0,296.393,298a22.559,22.559,0,0,0,39.78,21.126,28.139,28.139,0,0,0,16.848-4.729" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="그룹_6760" data-name="그룹 6760" opacity="0.3">
+          <g id="그룹_6759" data-name="그룹 6759">
+            <g id="그룹_6758" data-name="그룹 6758" clip-path="url(#clip-path-5)">
+              <path id="패스_16499" data-name="패스 16499" d="M211.281,64.923a21.909,21.909,0,0,0,8.755-35.573A21.9,21.9,0,0,0,184.365,6.2a21.9,21.9,0,0,0-32.4,29.357A21.9,21.9,0,0,0,168.9,70.188a21.9,21.9,0,0,0,42.383-5.265" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

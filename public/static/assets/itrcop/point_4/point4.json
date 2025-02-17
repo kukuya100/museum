@@ -1,0 +1,188 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/point_4/bg_chat.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_chat"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_chat_btn.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_chat_btn"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_chat_s.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_chat_s"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_chat_ss.png",
+        "type": "image",
+        "key": "bg_chat_ss"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_search_box.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_search_box"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_tb_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_tb_01"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_tb_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_tb_02"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_tb_03.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_tb_03"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_tb_04.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_tb_04"
+      },
+      {
+        "url": "assets/itrcop/point_4/bg_tb_05.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_tb_05"
+      },
+      {
+        "url": "assets/itrcop/point_4/btn_blue_round.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_blue_round"
+      },
+      {
+        "url": "assets/itrcop/point_4/btn_blue_round_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_blue_round_2"
+      },
+      {
+        "url": "assets/itrcop/point_4/btn_blur_round_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_blur_round_3"
+      },
+      {
+        "url": "assets/itrcop/point_4/btn_blur_round_l.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_blur_round_l"
+      },
+      {
+        "url": "assets/lp/op/img_point_4.png",
+        "type": "image",
+        "key": "img_point_4"
+      },
+      {
+        "url": "assets/itrcop/point_4/img_point_4_11._1.png",
+        "type": "image",
+        "key": "img_point_4_11._1"
+      },
+      {
+        "url": "assets/itrcop/point_4/img_point4_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point4_01"
+      },
+      {
+        "url": "assets/itrcop/point_4/img_point4_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point4_02"
+      },
+      {
+        "url": "assets/itrcop/point_4/img_point4_03.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point4_03"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

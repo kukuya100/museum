@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="176" viewBox="0 0 470 176">
+  <g id="그룹_1772" data-name="그룹 1772" transform="translate(-60 -736)">
+    <g id="사각형_1312" data-name="사각형 1312" transform="translate(60 736)" fill="#f2ece4" stroke="#e3d9d1" stroke-width="2">
+      <rect width="470" height="176" rx="88" stroke="none"/>
+      <rect x="1" y="1" width="468" height="174" rx="87" fill="none"/>
+    </g>
+    <text id="취소하기" transform="translate(295 843)" font-size="52" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="-89.883" y="0">취소하기</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+qrcode : 일반 https://modu.museum.go.kr/museumplay/goryeo-ro/
+qrcode_north : 조선실 https://modu.museum.go.kr/museumplay/goryeo-ro/?kioskDirection=top
+
+
+개방성
+o1 : 고려임금의 딸, 복녕궁주묘지명
+o2 : "내시우번"이 새겨진 완
+o3 : 기린을 본떠 만든 청자향로
+o4 : 호장 김지원의 딸 묘지명
+o5 : 지방 백성들이 뜻을 모아 만든 쇠북
+o6 : 철소에서 만든 농기구
+o7 : "황비청천"이 새겨진 거울
+o8 : 무신정권 때의 문신, 양택춘의 묘지명
+
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=1
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=2
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=3
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=4
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=5
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=6
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=7
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=o&p=8
+
+
+다양성
+d1 : 인종의 시호를 올리며 지은 글 
+d2 : 청자로 만든 제기, 희준
+d3 : 앉아있는 모습의 보살상
+d4 : 합 속에 또 합, 모자합
+d5 : 청자로 만든 기와
+d6 : 금속으로 만든 고려의 활자
+d7 : "청녕 4년"이 새겨진 종
+d8 : 은으로 무늬를 넣은 향완
+
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=1
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=2
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=3
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=4
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=5
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=6
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=7
+https://modu.museum.go.kr/museumplay/goryeo-ro/?t=d&p=8

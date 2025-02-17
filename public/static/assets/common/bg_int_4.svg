@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="1081" height="1920" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1081 1920">
+  <defs>
+    <radialGradient id="radial-gradient" cx="804.1" cy="-1491.9" fx="804.1" fy="-1491.9" r="477.6" gradientTransform="translate(-298.3 3939.2) scale(1 2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </radialGradient>
+  </defs>
+  <g id="text">
+    <g>
+      <rect width="1081" height="1920" fill="#83baff" stroke-width="0"/>
+      <g>
+        <rect x="27" y="25.8" width="1027.4" height="1868.4" rx="29" ry="29" fill="#ccc0b8" stroke-width="0"/>
+        <rect x="26.6" y="47.4" width="1021.6" height="1841.5" rx="25.9" ry="25.9" fill="#b2b2b2" stroke-width="0"/>
+        <rect x="27.4" y="41.1" width="1021.6" height="1845" rx="25.9" ry="25.9" fill="#c9c9c9" stroke-width="0"/>
+        <rect x="27.4" y="32.8" width="1021.6" height="1850.9" rx="25.9" ry="25.9" fill="#d6d6d6" stroke-width="0"/>
+        <rect x="27.4" y="24.1" width="1021.6" height="1856.5" rx="25.9" ry="25.9" fill="url(#radial-gradient)" stroke-width="0"/>
+      </g>
+      <rect x="12.8" y="10.9" width="1055.4" height="1896.5" rx="23.4" ry="23.4" fill="none" stroke="#badcff" stroke-dasharray="0 10.3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+      <rect x="103.1" y="196.5" width="874.7" height="401.4" rx="70.8" ry="70.8" fill="#dceaf4" stroke="#a4d0ff" stroke-miterlimit="10" stroke-width="1.8"/>
+      <path d="m626.5,505.3c-2.5,0-4.4,1.7-4.4,3.8,0,0,0,0,0,0,0,38.9-36.8,70.4-82.2,70.4s-82.2-31.5-82.2-70.4,0,0,0,0c0-2.1-1.9-3.8-4.4-3.8H21.5v1369.7c0,12.3,11.7,22.3,26,22.3h981.4c14.4,0,26-10,26-22.3V505.3h-428.6Z" fill="#83baff" stroke-width="0"/>
+      <path d="m1061.8,515.8l-413.6-1.1c-1.1,0-3.3-.3-5.8-.2-6.7.1-8.8,1.2-10.6,8.8-2.6,10.9-15.3,30.2-29.9,44.6-15.1,14.9-35.3,23.1-57.5,23.1s-50.7-7.9-69.1-25.2c-13.6-12.8-19-26.4-24.3-45.6h0c0-2.5-2-4.5-4.5-4.5H14.8" fill="none" stroke="#badcff" stroke-dasharray="0 10.3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+      <rect x="123.4" y="639.4" width="834.1" height="1058.4" fill="#dceaf4" stroke="#6bb7fc" stroke-miterlimit="10" stroke-width="2.9"/>
+      <g>
+        <line x1="125" y1="640.7" x2="125" y2="1694.1" fill="none" stroke="#ccc0b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+        <line x1="125" y1="640.7" x2="956" y2="640.7" fill="none" stroke="#ccc0b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+      </g>
+      <path d="m885.9,607.8l18,113.9c5,29.1,17.3,45.9,39.7,42.6s24.5-20.8,21.2-43.2l-34.5-233.7c-3.3-22.4-24.3-38-46.7-34.7-22.4,3.3-38,24.3-34.7,46.7l1,6.3" fill="none" stroke="#535577" stroke-miterlimit="10" stroke-width="13.7"/>
+    </g>
+  </g>
+</svg>

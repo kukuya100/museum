@@ -1,0 +1,128 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcdi/point_7/eff_point_7_0.png",
+        "type": "image",
+        "key": "eff_point_7_0"
+      },
+      {
+        "url": "assets/itrcdi/point_7/eff_point_7_1.png",
+        "type": "image",
+        "key": "eff_point_7_1"
+      },
+      {
+        "url": "assets/itrcdi/point_7/eff_point_7_3.png",
+        "type": "image",
+        "key": "eff_point_7_3"
+      },
+      {
+        "url": "assets/itrcdi/point_7/eff_point7_2.png",
+        "type": "image",
+        "key": "eff_point7_2"
+      },
+      {
+        "url": "assets/lp/di/img_point_7.png",
+        "type": "image",
+        "key": "img_point_7"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_1.png",
+        "type": "image",
+        "key": "img_point_7_1"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_2.png",
+        "type": "image",
+        "key": "img_point_7_2"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_3.png",
+        "type": "image",
+        "key": "img_point_7_3"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_4.png",
+        "type": "image",
+        "key": "img_point_7_4"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_5.png",
+        "type": "image",
+        "key": "img_point_7_5"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6.png",
+        "type": "image",
+        "key": "img_point_7_6"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_1_1.png",
+        "type": "image",
+        "key": "img_point_7_6_1_1"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_1_2.png",
+        "type": "image",
+        "key": "img_point_7_6_1_2"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_1_3.png",
+        "type": "image",
+        "key": "img_point_7_6_1_3"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_1_4.png",
+        "type": "image",
+        "key": "img_point_7_6_1_4"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_2_1.png",
+        "type": "image",
+        "key": "img_point_7_6_2_1"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_2_2.png",
+        "type": "image",
+        "key": "img_point_7_6_2_2"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_2_3.png",
+        "type": "image",
+        "key": "img_point_7_6_2_3"
+      },
+      {
+        "url": "assets/itrcdi/point_7/img_point_7_6_2_4.png",
+        "type": "image",
+        "key": "img_point_7_6_2_4"
+      },
+      {
+        "url": "assets/itrcdi/point_7/bg_point_7_21.png",
+        "type": "image",
+        "key": "bg_point_7_21"
+      },
+      {
+        "url": "assets/itrcdi/point_7/btn_play.png",
+        "type": "image",
+        "key": "btn_play"
+      },
+      {
+        "url": "assets/itrcdi/point_7/btn_pause.png",
+        "type": "image",
+        "key": "btn_pause"
+      },
+      {
+        "url": ["assets/itrcdi/point_7/audio_point_7_1.mp3"],
+        "type": "audio",
+        "key": "audio_point_7_1"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

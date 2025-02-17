@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="95" viewBox="0 0 90 95">
+  <g id="btn_camera" transform="translate(-3328 217)">
+    <circle id="타원_7" data-name="타원 7" cx="45" cy="45" r="45" transform="translate(3328 -212)" fill="#161844"/>
+    <circle id="타원_8" data-name="타원 8" cx="45" cy="45" r="45" transform="translate(3328 -217)" fill="#598dff"/>
+    <g id="camera" transform="translate(3347.898 -195.114)">
+      <path id="패스_16076" data-name="패스 16076" d="M51.2,39.512a4.564,4.564,0,0,1-4.564,4.564H5.564A4.564,4.564,0,0,1,1,39.512V14.41A4.564,4.564,0,0,1,5.564,9.846h9.128L19.256,3H32.948l4.564,6.846H46.64A4.564,4.564,0,0,1,51.2,14.41Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <circle id="타원_15" data-name="타원 15" cx="9" cy="9" r="9" transform="translate(17.102 17.113)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

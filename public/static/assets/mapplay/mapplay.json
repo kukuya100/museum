@@ -1,0 +1,463 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/mapplay/bg_artifact_list.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_artifact_list"
+      },
+      {
+        "url": "assets/mapplay/bg_cr_diversity.png",
+        "type": "image",
+        "key": "bg_cr_diversity"
+      },
+      {
+        "url": "assets/mapplay/bg_cr_holder.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_cr_holder"
+      },
+      {
+        "url": "assets/mapplay/bg_cr_holder_on.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_cr_holder_on"
+      },
+      {
+        "url": "assets/mapplay/bg_cr_openness.png",
+        "type": "image",
+        "key": "bg_cr_openness"
+      },
+      {
+        "url": "assets/mapplay/bg_mapplay_01.png",
+        "type": "image",
+        "key": "bg_mapplay_01"
+      },
+      {
+        "url": "assets/mapplay/bg_mapplay_02.png",
+        "type": "image",
+        "key": "bg_mapplay_02"
+      },
+      {
+        "url": "assets/mapplay/bg_popup_div.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_popup_div"
+      },
+      {
+        "url": "assets/mapplay/bg_popup_opn.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_popup_opn"
+      },
+      {
+        "url": "assets/mapplay/bg_selector.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_selector"
+      },
+      {
+        "url": "assets/mapplay/btn_tuto_next.png",
+        "type": "image",
+        "key": "btn_tuto_next"
+      },
+      {
+        "url": "assets/mapplay/bnt_zoom.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bnt_zoom"
+      },
+      {
+        "url": "assets/mapplay/box_title_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "box_title_01"
+      },
+      {
+        "url": "assets/mapplay/box_title_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "box_title_02"
+      },
+      {
+        "url": "assets/mapplay/btn_back.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_back"
+      },
+      {
+        "url": "assets/mapplay/btn_box_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_box_1"
+      },
+      {
+        "url": "assets/mapplay/btn_box_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_box_2"
+      },
+      {
+        "url": "assets/mapplay/btn_cancel.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_cancel"
+      },
+      {
+        "url": "assets/mapplay/btn_div_exp.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_div_exp"
+      },
+      {
+        "url": "assets/mapplay/btn_normal_login.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_normal_login"
+      },
+      {
+        "url": "assets/mapplay/btn_opn_exp.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_opn_exp"
+      },
+      {
+        "url": "assets/mapplay/btn_qr_rt.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_qr_rt"
+      },
+      {
+        "url": "assets/mapplay/btn_save.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_save"
+      },
+      {
+        "url": "assets/mapplay/ico_bow_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_bow_1"
+      },
+      {
+        "url": "assets/mapplay/ico_bow_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_bow_2"
+      },
+      {
+        "url": "assets/mapplay/ico_bow_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_bow_3"
+      },
+      {
+        "url": "assets/mapplay/ico_exclamation.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_exclamation"
+      },
+      {
+        "url": "assets/mapplay/ico_no.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no"
+      },
+      {
+        "url": "assets/mapplay/ico_progress_c.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_progress_c"
+      },
+      {
+        "url": "assets/mapplay/ico_progress_l.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_progress_l"
+      },
+      {
+        "url": "assets/mapplay/ico_progress_r.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_progress_r"
+      },
+      {
+        "url": "assets/mapplay/icon_arrow_open.png",
+        "type": "image",
+        "key": "icon_arrow_open"
+      },
+      {
+        "url": "assets/mapplay/icon_arrow_div.png",
+        "type": "image",
+        "key": "icon_arrow_div"
+      },
+      {
+        "url": "assets/mapplay/imb_artifact_holder.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "imb_artifact_holder"
+      },
+      {
+        "url": "assets/mapplay/img_c1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c1"
+      },
+      {
+        "url": "assets/mapplay/img_c2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c2"
+      },
+      {
+        "url": "assets/mapplay/img_c3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c3"
+      },
+      {
+        "url": "assets/mapplay/img_c4.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c4"
+      },
+      {
+        "url": "assets/mapplay/img_c5.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c5"
+      },
+      {
+        "url": "assets/mapplay/img_c6.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_c6"
+      },
+      {
+        "url": "assets/mapplay/img_comment.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_comment"
+      },
+      {
+        "url": "assets/mapplay/img_div_time.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_div_time"
+      },
+      {
+        "url": "assets/mapplay/img_load.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_load"
+      },
+      {
+        "url": "assets/mapplay/img_o_point_3.jpg",
+        "type": "image",
+        "key": "img_o_point_3"
+      },
+      {
+        "url": "assets/mapplay/img_opn_time.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_opn_time"
+      },
+      {
+        "url": "assets/mapplay/point_card.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "point_card"
+      },
+      {
+        "url": "assets/mapplay/bg_point_card_effect.png",
+        "type": "image",
+        "key": "bg_point_card_effect"
+      },
+      {
+        "url": "assets/mapplay/bg_discovery_effect.png",
+        "type": "image",
+        "key": "bg_discovery_effect"
+      },
+      {
+        "url": "assets/mapplay/ico_zoom.png",
+        "type": "image",
+        "key": "img_zoom"
+      },
+      {
+        "url": "assets/mapplay/img_cng.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_cng"
+      },
+      {
+        "url": "assets/mapplay/btn_view_back.png",
+        "type": "image",
+        "key": "btn_view_back"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

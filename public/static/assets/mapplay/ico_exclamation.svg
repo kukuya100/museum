@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <g id="그룹_1906" data-name="그룹 1906" transform="translate(-448 -258)">
+    <g id="타원_4" data-name="타원 4" transform="translate(448 258)" fill="#e6f1ff" stroke="#598dff" stroke-width="12">
+      <circle cx="80" cy="80" r="80" stroke="none"/>
+      <circle cx="80" cy="80" r="74" fill="none"/>
+    </g>
+    <text id="i" transform="translate(528 372)" fill="#598dff" font-size="94" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="-12.071" y="0">i</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+{
+  "anims": [
+    {
+      "key": "water_1",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "sp_water_1",
+          "frame": 0,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_water_1",
+          "frame": 1,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_water_1",
+          "frame": 2,
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 3,
+      "skipMissedFrames": true,
+      "showBeforeDelay": true,
+      "randomFrame": false
+    },
+    {
+      "key": "water_2",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "sp_water_2",
+          "frame": 0,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_water_2",
+          "frame": 1,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_water_2",
+          "frame": 2,
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 3,
+      "skipMissedFrames": true,
+      "repeat": -1,
+      "yoyo": true,
+      "randomFrame": false
+    },
+    {
+      "key": "ani_alcohol_1",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "sp_alcohol_1",
+          "frame": 0,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_alcohol_1",
+          "frame": 1,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_alcohol_1",
+          "frame": 2,
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 3,
+      "skipMissedFrames": true,
+      "showBeforeDelay": true,
+      "randomFrame": false
+    },
+    {
+      "key": "ani_alcohol_2",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "sp_alcohol_2",
+          "frame": 0,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_alcohol_2",
+          "frame": 1,
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "sp_alcohol_2",
+          "frame": 2,
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 3,
+      "skipMissedFrames": true,
+      "repeat": -1,
+      "randomFrame": false
+    }
+  ],
+  "globalTimeScale": 1,
+  "meta": {
+    "app": "Phaser Editor 2D v3",
+    "contentType": "Phaser v3 Animations"
+  },
+  "settings": {
+    "sourceLang": "JAVA_SCRIPT",
+    "esModule": false,
+    "generateCode": false
+  }
+}

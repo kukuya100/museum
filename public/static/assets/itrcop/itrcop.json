@@ -1,0 +1,58 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/bg_interactive.png",
+        "type": "image",
+        "key": "bg_interactive"
+      },
+      {
+        "url": "assets/itrcdi/btn_next.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_next"
+      },
+      {
+        "url": "assets/itrcop/ico_big.svg",
+        "type": "image",
+        "key": "ico_big"
+      },
+      {
+        "url": "assets/itrcop/ico_big_on.svg",
+        "type": "image",
+        "key": "ico_big_on"
+      },
+      {
+        "url": "assets/itrcop/ico_sml.svg",
+        "type": "image",
+        "key": "ico_sml"
+      },
+      {
+        "url": "assets/itrcop/ico_sml_on.svg",
+        "type": "image",
+        "key": "ico_sml_on"
+      },
+      {
+        "url": "assets/common/btn_close.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_close"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": true
+  }
+}

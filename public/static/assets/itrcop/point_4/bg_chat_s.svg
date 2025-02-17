@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1021" height="1422" viewBox="0 0 1021 1422">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_3038" data-name="사각형 3038" width="1021" height="1422" rx="28" transform="translate(27 459)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="채팅창" transform="translate(-27 -459)">
+    <g id="채팅창_배경" clip-path="url(#clip-path)">
+      <path id="사각형_3035" data-name="사각형 3035" d="M100,0H880A100,100,0,0,1,980,100V1422a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V100A100,100,0,0,1,100,0Z" transform="translate(50 459)" fill="#badcff"/>
+    </g>
+    <g id="수화구" transform="translate(-20 20)" opacity="0.5">
+      <rect id="사각형_3043" data-name="사각형 3043" width="180" height="30" rx="15" transform="translate(450 509)" fill="#fff"/>
+      <rect id="사각형_3044" data-name="사각형 3044" width="30" height="30" rx="15" transform="translate(650 509)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

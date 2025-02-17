@@ -1,0 +1,28 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/point_1/eff_point_1_1.png",
+        "type": "image",
+        "key": "eff_point_1_1"
+      },
+      {
+        "url": "assets/lp/op/img_point_1.png",
+        "type": "image",
+        "key": "img_point_1"
+      },
+      {
+        "url": "assets/itrcop/point_1/img_point_1_1.png",
+        "type": "image",
+        "key": "img_point_1_1"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

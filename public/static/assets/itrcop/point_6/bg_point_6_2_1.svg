@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" width="1200" height="349.21" data-name="레이어_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 987.43 287.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #666;
+        stroke-miterlimit: 10;
+        stroke-width: .42px;
+      }
+
+      .cls-2 {
+        fill: #f2f2f2;
+      }
+
+      .cls-3 {
+        font-family: KoddiUDOnGothic-Regular, 'KoddiUD OnGothic';
+        font-size: 35px;
+      }
+    </style>
+  </defs>
+  <g id="button">
+    <path class="cls-2" d="M82.9,0h821.63c45.75,0,82.9,37.15,82.9,82.9v204.45H0V82.9C0,37.15,37.15,0,82.9,0Z"/>
+    <g>
+      <rect class="cls-1" x="157.9" y="24.3" width="671.62" height="43.42" rx="21.71" ry="21.71"/>
+      <text class="cls-3" transform="translate(188.17 57.94)"><tspan x="0" y="0">마을에서 생산되는 물건들을 넣어보세요.</tspan></text>
+    </g>
+  </g>
+</svg>

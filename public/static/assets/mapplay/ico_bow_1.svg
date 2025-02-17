@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="42.9" height="30" viewBox="0 0 42.9 30">
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <g>
+        <line x1="2.2" y1="17" x2="21.4" y2="1.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4"/>
+        <line x1="40.7" y1="17" x2="21.4" y2="1.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4"/>
+      </g>
+      <g>
+        <line x1="2.2" y1="27.8" x2="21.4" y2="12.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.4"/>
+        <line x1="40.7" y1="27.8" x2="21.4" y2="12.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <meta charset="utf-8" />
+    <title>국립중앙박물관 - 우리곁의 고려</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
+    <style>
+      #left-button-ctrl,
+      #right-button-ctrl {
+        top: 15px;
+      }
+      #left-button-ctrl {
+        left: 20px;
+      }
+      #right-button-ctrl {
+        right: 20px;
+        text-align: right;
+      }
+      #bottom-right-ctrl {
+        bottom: 50px;
+        right: 20px;
+        text-align: right;
+      }
+      #bottom-left-ctrl {
+        bottom: 20px;
+        left: 20px;
+      }
+      #left-button-ctrl .fixed-btn {
+        margin-right: 25px;
+      }
+
+      .fixed-btn {
+        display: none;
+        cursor: pointer;
+      }
+
+      .font-preload {
+        position: fixed;
+        top: 0;
+        left: -2000px;
+        z-index: 9000;
+        visibility: hidden;
+      }
+      .font-preload .font-1 {
+        font-family: KoddiUDOnGothic-Regular, sans-serif;
+      }
+      .font-preload .font-2 {
+        font-family: KoddiUDOnGothic-ExtraBold, sans-serif;
+      }
+      .font-preload .font-3 {
+        font-family: KoddiUDOnGothic-Bold, sans-serif;
+      }
+      #loginBtn {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        bottom: 50px;
+        width: 100%;
+        text-align: center;
+      }
+      #loginBtn img {
+        width: 500px;
+        margin-bottom: 20px;
+      }
+
+      @media (max-width: 1080px) {
+        #left-button-ctrl img,
+        #right-button-ctrl img {
+          height: 10vw;
+        }
+        #loginBtn img {
+          width: 50vw;
+        }
+      }
+
+      @media (max-width: 752px) {
+        #left-button-ctrl img,
+        #right-button-ctrl img,
+        #bottom-left-ctrl img,
+        #bottom-right-ctrl img {
+          height: 8.2vw;
+        }
+        #left-button-ctrl,
+        #right-button-ctrl {
+          top: 20px;
+        }
+        #left-button-ctrl {
+          left: 35px;
+        }
+        #right-button-ctrl {
+          right: 20px;
+        }
+        #loginBtn img {
+          width: 70vw;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="black-layer"></div>
+    <div id="exit-layer" style="display: none">
+      <div class="box">
+        <div class="content">지금 종료하면<br />체험이 저장되지 않아요.</div>
+        <div class="btn">
+          <button class="exit">체험<br />종료하기</button>
+          <button class="continue">체험<br />계속하기</button>
+        </div>
+      </div>
+    </div>
+    <div class="font-preload">
+      <span class="font-1">중앙박물관</span>
+      <span class="font-2">고려실</span>
+      <span class="font-3">체험 학습</span>
+    </div>
+    <div id="game-container"></div>
+    <div id="qrcode" style="display: none">
+      <div class="box">
+        사각 테두리 안에<br />전시품의 QR 코드를<br />인식시켜 주세요.
+      </div>
+      <div class="focus"></div>
+    </div>
+    <div id="loginBtn"></div>
+    <div id="nicknameInput"></div>
+  </body>
+  <script>
+    console.log("Version : 1.2.0");
+  </script>
+</html>

@@ -1,0 +1,298 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/point_8/bg_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_3"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_4.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_4"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_6.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_6"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_7.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_7"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_8.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_8"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_box_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_box_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_box_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_box_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/btn_lay_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_lay_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/btn_lay_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_lay_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/btn_lay_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_lay_3"
+      },
+      {
+        "url": "assets/itrcop/point_8/btn_show_back.png",
+        "type": "image",
+        "key": "btn_show_back"
+      },
+      {
+        "url": "assets/itrcop/point_8/btn_up.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_up"
+      },
+      {
+        "url": "assets/itrcop/point_8/ico_no_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/ico_no_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/ico_no_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no_3"
+      },
+      {
+        "url": "assets/itrcop/point_8/ico_no_4.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_no_4"
+      },
+      {
+        "url": "assets/lp/op/img_point_8.jpg",
+        "type": "image",
+        "key": "img_point_8"
+      },
+      {
+        "url": "assets/itrcop/point_8/img_point_8_1.png",
+        "type": "image",
+        "key": "img_point_8_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/img_point_8_2.png",
+        "type": "image",
+        "key": "img_point_8_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_open_point_8_1.png",
+        "type": "image",
+        "key": "bg_open_point_8_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_open_point_8_2.png",
+        "type": "image",
+        "key": "bg_open_point_8_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_open_point_8_2_on.png",
+        "type": "image",
+        "key": "bg_open_point_8_2_on"
+      },
+      {
+        "url": "assets/itrcop/point_8/bg_open_point_8_3.png",
+        "type": "image",
+        "key": "bg_open_point_8_3"
+      },
+      {
+        "url": "assets/itrcop/point_8/img_point_8_2_bottom.png",
+        "type": "image",
+        "key": "img_point_8_2_bottom"
+      },
+      {
+        "url": "assets/itrcop/point_8/line_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "line_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/line_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "line_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/line_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "line_3"
+      },
+      {
+        "url": "assets/itrcop/point_8/line_4.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "line_4"
+      },
+      {
+        "url": "assets/itrcop/point_8/mark_line_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "mark_line_1"
+      },
+      {
+        "url": "assets/itrcop/point_8/mark_line_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "mark_line_2"
+      },
+      {
+        "url": "assets/itrcop/point_8/mark_line_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "mark_line_3"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

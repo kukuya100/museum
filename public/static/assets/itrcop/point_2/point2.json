@@ -1,0 +1,98 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/2/0_1.jpg",
+        "type": "image",
+        "key": "p2_0_1"
+      },
+      {
+        "url": "assets/itrcop/2/0_2.jpg",
+        "type": "image",
+        "key": "p2_0_2"
+      },
+      {
+        "url": "assets/itrcop/2/0_3.jpg",
+        "type": "image",
+        "key": "p2_0_3"
+      },
+      {
+        "url": "assets/itrcop/2/0_4.jpg",
+        "type": "image",
+        "key": "p2_0_4"
+      },
+      {
+        "url": "assets/itrcop/2/0_5.jpg",
+        "type": "image",
+        "key": "p2_0_5"
+      },
+      {
+        "url": "assets/itrcop/2/0_6.jpg",
+        "type": "image",
+        "key": "p2_0_6"
+      },
+      {
+        "url": "assets/itrcop/2/0_7.jpg",
+        "type": "image",
+        "key": "p2_0_7"
+      },
+      {
+        "url": "assets/itrcop/2/0_8.jpg",
+        "type": "image",
+        "key": "p2_0_8"
+      },
+      {
+        "url": "assets/itrcop/2/0_9.jpg",
+        "type": "image",
+        "key": "p2_0_9"
+      },
+      {
+        "url": "assets/itrcop/point_2/bg_text_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_text_01"
+      },
+      {
+        "url": "assets/itrcop/point_2/bg_text_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_text_02"
+      },
+      {
+        "url": "assets/itrcop/point_2/bg_text_03.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_text_03"
+      },
+      {
+        "url": "assets/itrcop/point_2/img_dl2_01.png",
+        "type": "image",
+        "key": "img_dl2_01"
+      },
+      {
+        "url": "assets/lp/op/img_point_2.png",
+        "type": "image",
+        "key": "img_point_2"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

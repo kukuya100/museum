@@ -1,0 +1,158 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcop/point_7/bg_point_7_1.png",
+        "type": "image",
+        "key": "bg_point_7_1"
+      },
+      {
+        "url": ["assets/itrcop/point_7/birds.mp3"],
+        "type": "audio",
+        "key": "birds"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_1.png",
+        "type": "image",
+        "key": "btn_point_7_1"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_1_on.png",
+        "type": "image",
+        "key": "btn_point_7_1_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_1_s.png",
+        "type": "image",
+        "key": "btn_point_7_1_s"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_2.png",
+        "type": "image",
+        "key": "btn_point_7_2"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_2_on.png",
+        "type": "image",
+        "key": "btn_point_7_2_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_2_s.png",
+        "type": "image",
+        "key": "btn_point_7_2_s"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_3.png",
+        "type": "image",
+        "key": "btn_point_7_3"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_3_on.png",
+        "type": "image",
+        "key": "btn_point_7_3_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_3_s.png",
+        "type": "image",
+        "key": "btn_point_7_3_s"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_4.png",
+        "type": "image",
+        "key": "btn_point_7_4"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_4_on.png",
+        "type": "image",
+        "key": "btn_point_7_4_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_4_s.png",
+        "type": "image",
+        "key": "btn_point_7_4_s"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_5.png",
+        "type": "image",
+        "key": "btn_point_7_5"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_5_on.png",
+        "type": "image",
+        "key": "btn_point_7_5_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_5_s.png",
+        "type": "image",
+        "key": "btn_point_7_5_s"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_6.png",
+        "type": "image",
+        "key": "btn_point_7_6"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_6_on.png",
+        "type": "image",
+        "key": "btn_point_7_6_on"
+      },
+      {
+        "url": "assets/itrcop/point_7/btn_point_7_6_s.png",
+        "type": "image",
+        "key": "btn_point_7_6_s"
+      },
+      {
+        "url": ["assets/itrcop/point_7/dragon.mp3"],
+        "type": "audio",
+        "key": "dragon"
+      },
+      {
+        "url": "assets/lp/op/img_point_7.png",
+        "type": "image",
+        "key": "img_point_7"
+      },
+      {
+        "url": "assets/itrcop/point_7/img_point_7_1.png",
+        "type": "image",
+        "key": "img_point_7_1"
+      },
+      {
+        "url": "assets/itrcop/point_7/img_point_7_2.png",
+        "type": "image",
+        "key": "img_point_7_2"
+      },
+      {
+        "url": "assets/itrcop/point_7/img_point_7_3.png",
+        "type": "image",
+        "key": "img_point_7_3"
+      },
+      {
+        "url": "assets/itrcop/point_7/img_point_7_4.png",
+        "type": "image",
+        "key": "img_point_7_4"
+      },
+      {
+        "url": "assets/itrcop/point_7/img_point_7_5.png",
+        "type": "image",
+        "key": "img_point_7_5"
+      },
+      {
+        "url": ["assets/itrcop/point_7/swords.mp3"],
+        "type": "audio",
+        "key": "swords"
+      },
+      {
+        "url": ["assets/itrcop/point_7/waves.mp3"],
+        "type": "audio",
+        "key": "waves"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

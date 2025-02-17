@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="320.3" height="280.2" viewBox="0 0 320.3 280.2">
+  <g id="_머리기름" data-name="머리기름">
+    <g>
+      <path d="m7.1,18.4c5.3-3.3,20.8-11.9,42.6-11.2,23.6.7,39.3,11.8,44.1,15.4" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.3"/>
+      <path d="m313.2,18.4c-5.3-3.3-20.8-11.9-42.6-11.2-23.6.7-39.3,11.8-44.1,15.4" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.3"/>
+      <path d="m110.8,257.8c9.2,6.2,26.2,15.6,48.4,15.9,24.6.3,43.2-10.7,52.5-17.3" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.9"/>
+      <line x1="160.6" y1="173.2" x2="160.6" y2="133.9" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      <ellipse cx="41.2" cy="75.9" rx="3.5" ry="14.2" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.9"/>
+      <ellipse cx="273.3" cy="75.9" rx="3.5" ry="14.2" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.9"/>
+    </g>
+  </g>
+</svg>

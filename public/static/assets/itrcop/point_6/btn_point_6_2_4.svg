@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.74 69.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #a3a3a3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.52px;
+      }
+    </style>
+  </defs>
+  <g id="button">
+    <g>
+      <circle class="cls-1" cx="34.87" cy="34.87" r="33.61"/>
+      <path d="M16.98,35.1v-18.62h18.67v6.85h9.22v-8.68h3.67v24.04h-3.67v-12h-9.22v8.42h-18.67ZM32.07,19.79h-11.5v12h11.5v-12ZM45.27,55.65v-11.86h-21.53v-3.31h25.2v15.18h-3.67Z"/>
+    </g>
+  </g>
+</svg>

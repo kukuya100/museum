@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="133" viewBox="0 0 364 133">
+  <g id="버튼_주문서양식" transform="translate(-112 -1670)">
+    <path id="사각형_3048" data-name="사각형 3048" d="M48,0H316a48,48,0,0,1,48,48V60a60,60,0,0,1-60,60H60A60,60,0,0,1,0,60V48A48,48,0,0,1,48,0Z" transform="translate(112 1683)" fill="#161844"/>
+    <rect id="사각형_3047" data-name="사각형 3047" width="364" height="120" rx="60" transform="translate(112 1670)" fill="#598dff"/>
+    <text id="주문서_양식" data-name="주문서 양식" transform="translate(220 1743)" fill="#fff" font-size="40" font-family="KoddiUDOnGothic-Bold, KoddiUD OnGothic" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">신청서 양식</tspan></text>
+    <g id="file-text" transform="translate(164.433 1705.04)">
+      <path id="패스_8109" data-name="패스 8109" d="M26.5,2H8.5A4.5,4.5,0,0,0,4,6.5V42.493a4.5,4.5,0,0,0,4.5,4.5h27a4.5,4.5,0,0,0,4.5-4.5v-27Z" transform="translate(0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="패스_8110" data-name="패스 8110" d="M14,2V15.5H27.5" transform="translate(12.496)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="선_809" data-name="선 809" x1="19" transform="translate(12.568 25.96)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="선_810" data-name="선 810" x1="19" transform="translate(12.568 35.96)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="패스_8111" data-name="패스 8111" d="M12.5,9H8" transform="translate(4.998 8.747)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

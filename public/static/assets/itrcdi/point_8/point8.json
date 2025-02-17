@@ -1,0 +1,148 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcdi/point_8/bg_point_8_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_point_8_1"
+      },
+      {
+        "url": "assets/itrcdi/point_8/eff_point_8_1.png",
+        "type": "image",
+        "key": "eff_point_8_1"
+      },
+      {
+        "url": "assets/itrcdi/point_8/eff_point_8_2.png",
+        "type": "image",
+        "key": "eff_point_8_2"
+      },
+      {
+        "url": "assets/itrcdi/point_8/eff_point_8_3.png",
+        "type": "image",
+        "key": "eff_point_8_3"
+      },
+      {
+        "url": "assets/lp/di/img_point_8.png",
+        "type": "image",
+        "key": "img_point_8"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_1.png",
+        "type": "image",
+        "key": "img_point_8_1"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_10.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_10"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_14.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_10_on"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_11.png",
+        "type": "image",
+        "key": "img_point_8_11"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_2.png",
+        "type": "image",
+        "key": "img_point_8_2"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_3.png",
+        "type": "image",
+        "key": "img_point_8_3"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_4.png",
+        "type": "image",
+        "key": "img_point_8_4"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_5.png",
+        "type": "image",
+        "key": "img_point_8_5"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_6.png",
+        "type": "image",
+        "key": "img_point_8_6"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_7.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_7"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_8.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_8"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_12.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_8_on"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_9.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_9"
+      },
+      {
+        "url": "assets/itrcdi/point_8/img_point_8_13.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_point_8_9_on"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

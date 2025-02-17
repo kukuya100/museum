@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="572" viewBox="0 0 231 572">
+  <g id="그룹_3543" data-name="그룹 3543" transform="translate(-71 -774)">
+    <g id="_04_부분클릭버튼" data-name="[04]부분클릭버튼" transform="translate(71 774)" fill="rgba(255,255,255,0.2)" stroke="#fff" stroke-width="15" stroke-dasharray="30 18">
+      <rect width="177" height="572" rx="40" stroke="none"/>
+      <rect x="7.5" y="7.5" width="162" height="557" rx="32.5" fill="none"/>
+    </g>
+    <g id="btn_plus" transform="translate(-91 917)">
+      <rect id="사각형_1328" data-name="사각형 1328" width="120" height="120" rx="60" transform="translate(273 86)" fill="#161844"/>
+      <rect id="사각형_1329" data-name="사각형 1329" width="120" height="120" rx="60" transform="translate(273 80)" fill="#598dff"/>
+      <g id="plus" transform="translate(302.993 109.993)">
+        <line id="선_824" data-name="선 824" y2="50" transform="translate(30.007 5.007)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <line id="선_825" data-name="선 825" x2="50" transform="translate(5.007 30.007)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

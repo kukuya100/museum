@@ -1,0 +1,288 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/common/bg_card_list.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_card_list"
+      },
+      {
+        "url": "assets/common/bg_img_point.png",
+        "type": "image",
+        "key": "bg_img_point"
+      },
+      {
+        "url": "assets/common/bg_ir_4s.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_ir_4s"
+      },
+      {
+        "url": "assets/lp/bg_lp_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_lp_1"
+      },
+      {
+        "url": "assets/lp/bg_lp_title.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "bg_lp_title"
+      },
+      {
+        "url": "assets/common/bg_mypage.png",
+        "type": "image",
+        "key": "bg_mypage"
+      },
+      {
+        "url": "assets/btns/btn_back.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_back"
+      },
+      {
+        "url": "assets/common/btn_camera.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_camera"
+      },
+      {
+        "url": "assets/common/btn_done_int_di.png",
+        "type": "image",
+        "key": "btn_done_int_di"
+      },
+      {
+        "url": "assets/common/btn_done_int_op.png",
+        "type": "image",
+        "key": "btn_done_int_op"
+      },
+      {
+        "url": "assets/btns/btn_exproom.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_exproom"
+      },
+      {
+        "url": "assets/btns/btn_home.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_home"
+      },
+      {
+        "url": "assets/btns/btn_how_play.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_how_play"
+      },
+      {
+        "url": "assets/btns/btn_my_artifact.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_my_artifact"
+      },
+      {
+        "url": "assets/common/btn_plus.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_plus"
+      },
+      {
+        "url": "assets/btns/btn_safedown.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_safedown"
+      },
+      {
+        "url": "assets/btns/btn_safedown_on.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_safedown_on"
+      },
+      {
+        "url": "assets/common/btn_share.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_share"
+      },
+      {
+        "url": "assets/common/btn_word_plus.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_word_plus"
+      },
+      {
+        "url": "assets/mapplay/btn_x.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_x"
+      },
+      {
+        "url": "assets/common/guide_0.png",
+        "type": "image",
+        "key": "guide_0"
+      },
+      {
+        "url": "assets/common/guide_1.png",
+        "type": "image",
+        "key": "guide_1"
+      },
+      {
+        "url": "assets/common/guide_2.png",
+        "type": "image",
+        "key": "guide_2"
+      },
+      {
+        "url": "assets/common/guide_3.png",
+        "type": "image",
+        "key": "guide_3"
+      },
+      {
+        "url": "assets/common/guide_4.png",
+        "type": "image",
+        "key": "guide_4"
+      },
+      {
+        "url": "assets/common/ico_alert.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_alert"
+      },
+      {
+        "url": "assets/common/ico_camera_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "ico_camera_2"
+      },
+      {
+        "url": "assets/common/ico_rotate_1.png",
+        "type": "image",
+        "key": "ico_rotate_1"
+      },
+      {
+        "url": "assets/common/ico_rotate_2.png",
+        "type": "image",
+        "key": "ico_rotate_2"
+      },
+      {
+        "url": "assets/common/ico_rotate_3.png",
+        "type": "image",
+        "key": "ico_rotate_3"
+      },
+      {
+        "url": "assets/common/img_magnifier.png",
+        "type": "image",
+        "key": "img_magnifier"
+      },
+      {
+        "url": "assets/common/img_stamp_di.png",
+        "type": "image",
+        "key": "img_stamp_di"
+      },
+      {
+        "url": "assets/common/img_stamp_op.png",
+        "type": "image",
+        "key": "img_stamp_op"
+      },
+      {
+        "url": "assets/common/start_guide.png",
+        "type": "image",
+        "key": "start_guide"
+      },
+      {
+        "url": "assets/btns/btn_back_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_back_2"
+      },
+      {
+        "url": "assets/common/speaker.png",
+        "type": "image",
+        "key": "speaker"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/common/img_camera.png",
+        "type": "image",
+        "key": "img_camera"
+      },
+      {
+        "url": "assets/common/img_compass.png",
+        "type": "image",
+        "key": "img_compass"
+      },
+      {
+        "url": "assets/common/img_compass_pin.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_compass_pin"
+      },
+      {
+        "url": "assets/common/img_corea_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_corea_01"
+      },
+      {
+        "url": "assets/common/img_corea_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_corea_02"
+      },
+      {
+        "url": "assets/common/img_corea_03.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_corea_03"
+      },
+      {
+        "url": "assets/common/img_flash.png",
+        "type": "image",
+        "key": "img_flash"
+      },
+      {
+        "url": "assets/common/img_object_01.png",
+        "type": "image",
+        "key": "img_object_01"
+      },
+      {
+        "url": "assets/common/img_object_02.png",
+        "type": "image",
+        "key": "img_object_02"
+      },
+      {
+        "url": "assets/common/img_postcard.png",
+        "type": "image",
+        "key": "img_postcard"
+      },
+      {
+        "url": "assets/common/img_start_map.png",
+        "type": "image",
+        "key": "img_start_map"
+      },
+      {
+        "url": "assets/common/img_start_post.png",
+        "type": "image",
+        "key": "img_start_post_1"
+      },
+      {
+        "url": "assets/common/img_ticket_01.png",
+        "type": "image",
+        "key": "img_ticket_01"
+      },
+      {
+        "url": "assets/common/img_ticket_02.png",
+        "type": "image",
+        "key": "img_ticket_02"
+      },
+      {
+        "url": "assets/common/player_deco.svg",
+        "svgConfig": {
+          "width": 468,
+          "height": 518,
+          "scale": 1
+        },
+        "type": "svg",
+        "key": "player_deco"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

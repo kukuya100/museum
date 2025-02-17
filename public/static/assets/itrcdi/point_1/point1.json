@@ -1,0 +1,68 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/itrcdi/point_1/btn_plus.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_plus_dotted"
+      },
+      {
+        "url": "assets/itrcdi/point_1/eff_point_1_1.png",
+        "type": "image",
+        "key": "eff_point_1_1"
+      },
+      {
+        "url": "assets/itrcdi/point_1/eff_point_1_2.png",
+        "type": "image",
+        "key": "eff_point_1_2"
+      },
+      {
+        "url": "assets/lp/di/img_point_1.png",
+        "type": "image",
+        "key": "img_point_1"
+      },
+      {
+        "url": "assets/itrcdi/point_1/img_point_1_1.png",
+        "type": "image",
+        "key": "img_point_1_1"
+      },
+      {
+        "url": "assets/itrcdi/point_1/img_point_1_2.png",
+        "type": "image",
+        "key": "img_point_1_2"
+      },
+      {
+        "url": "assets/itrcdi/point_1/img_point_1_3.png",
+        "type": "image",
+        "key": "img_point_1_3"
+      },
+      {
+        "url": "assets/itrcdi/point_1/img_point_1_4.png",
+        "type": "image",
+        "key": "img_point_1_4"
+      },
+      {
+        "url": "assets/itrcdi/point_1/line_point_1_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "line_point_1_1"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

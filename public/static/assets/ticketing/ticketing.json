@@ -1,0 +1,453 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": "assets/ticketing/bg_intro.svg",
+        "svgConfig": {
+          "width": 1081,
+          "height": 1551,
+          "scale": 1
+        },
+        "type": "svg",
+        "key": "bg_intro"
+      },
+      {
+        "url": "assets/ticketing/btn_favorite.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_favorite"
+      },
+      {
+        "url": "assets/ticketing/btn_favorite_on.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "btn_favorite_on"
+      },
+      {
+        "url": "assets/ticketing/img_bgz.svg",
+        "svgConfig": {
+          "width": 582,
+          "height": 582,
+          "scale": 1
+        },
+        "type": "svg",
+        "key": "img_bgz"
+      },
+      {
+        "url": "assets/ticketing/img_bgz_cv_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_bgz_cv_01"
+      },
+      {
+        "url": "assets/ticketing/img_bgz_cv_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_bgz_cv_02"
+      },
+      {
+        "url": "assets/ticketing/img_bgz_on.svg",
+        "svgConfig": {
+          "width": 582,
+          "height": 582,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_bgz_on"
+      },
+      {
+        "url": "assets/ticketing/img_cra.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_cra"
+      },
+      {
+        "url": "assets/ticketing/img_cra_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_cra_cv"
+      },
+      {
+        "url": "assets/ticketing/img_cra_on.svg",
+        "svgConfig": {
+          "width": 722,
+          "height": 722,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_cra_on"
+      },
+      {
+        "url": "assets/ticketing/img_gmw.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_gmw"
+      },
+      {
+        "url": "assets/ticketing/img_gmw_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_gmw_cv"
+      },
+      {
+        "url": "assets/ticketing/img_gmw_on.svg",
+        "svgConfig": {
+          "width": 660,
+          "height": 660,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_gmw_on"
+      },
+      {
+        "url": "assets/ticketing/img_gr.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_gr"
+      },
+      {
+        "url": "assets/ticketing/img_gr_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_gr_cv"
+      },
+      {
+        "url": "assets/ticketing/img_gr_on.svg",
+        "svgConfig": {
+          "width": 579,
+          "height": 579,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_gr_on"
+      },
+      {
+        "url": "assets/ticketing/img_is.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_is"
+      },
+      {
+        "url": "assets/ticketing/img_is_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_is_cv"
+      },
+      {
+        "url": "assets/ticketing/img_is_on.svg",
+        "svgConfig": {
+          "width": 360,
+          "height": 360,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_is_on"
+      },
+      {
+        "url": "assets/ticketing/img_map_line.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_map_line"
+      },
+      {
+        "url": "assets/ticketing/img_picker.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_picker"
+      },
+      {
+        "url": "assets/ticketing/img_pmdjg.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_pmdjg"
+      },
+      {
+        "url": "assets/ticketing/img_pmdjg_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_pmdjg_cv"
+      },
+      {
+        "url": "assets/ticketing/img_pmdjg_cv_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_pmdjg_cv_1"
+      },
+      {
+        "url": "assets/ticketing/img_pmdjg_on.svg",
+        "svgConfig": {
+          "width": 804,
+          "height": 804,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_pmdjg_on"
+      },
+      {
+        "url": "assets/ticketing/img_sgg.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_sgg"
+      },
+      {
+        "url": "assets/ticketing/img_sgg_cv.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_sgg_cv"
+      },
+      {
+        "url": "assets/ticketing/img_sgg_on.svg",
+        "svgConfig": {
+          "width": 675,
+          "height": 675,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_sgg_on"
+      },
+      {
+        "url": "assets/ticketing/img_ticket_11.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticket_11"
+      },
+      {
+        "url": "assets/ticketing/img_ticket_12.png",
+        "type": "image",
+        "key": "img_ticket_12"
+      },
+      {
+        "url": "assets/ticketing/img_ticket_21.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticket_21"
+      },
+      {
+        "url": "assets/ticketing/img_ticket_22.png",
+        "type": "image",
+        "key": "img_ticket_22"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_1_t_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_1_t_1"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_1_t_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_1_t_2"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_1_t_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_1_t_3"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_1_tk.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_1_tk"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_2_t_1.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_2_t_1"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_2_t_2.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_2_t_2"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_2_t_3.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_2_t_3"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_2_tk.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_2_tk"
+      },
+      {
+        "url": "assets/ticketing/img_ticketing_loading_1_b.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_ticketing_loading_b"
+      },
+      {
+        "url": "assets/ticketing/img_wjs.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_wjs"
+      },
+      {
+        "url": "assets/ticketing/img_wjs_cv_01.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_wjs_cv_01"
+      },
+      {
+        "url": "assets/ticketing/img_wjs_cv_02.svg",
+        "svgConfig": {
+          "width": 0,
+          "height": 0,
+          "scale": 0
+        },
+        "type": "svg",
+        "key": "img_wjs_cv_02"
+      },
+      {
+        "url": "assets/ticketing/img_wjs_on.svg",
+        "svgConfig": {
+          "width": 147,
+          "height": 147,
+          "scale": 2
+        },
+        "type": "svg",
+        "key": "img_wjs_on"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

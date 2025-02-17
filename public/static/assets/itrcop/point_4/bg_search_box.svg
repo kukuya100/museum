@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <g id="검색창" transform="translate(-140 -1139)">
+    <rect id="사각형_3039" data-name="사각형 3039" width="800" height="160" rx="80" transform="translate(140 1139)" fill="#fff"/>
+    <path id="사각형_3041" data-name="사각형 3041" d="M0,0H80a80,80,0,0,1,80,80v0a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(780 1139)" fill="#598dff"/>
+    <g id="search" transform="translate(827 1190)">
+      <circle id="타원_6" data-name="타원 6" cx="23" cy="23" r="23" transform="translate(3 3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line id="선_808" data-name="선 808" x1="12.808" y1="12.808" transform="translate(42.192 42.192)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <text id="묘지명_제작소" data-name="묘지명 제작소" transform="translate(369 1236)" font-size="54" font-family="KoddiUDOnGothic-Bold, KoddiUD OnGothic" font-weight="700" letter-spacing="-0.03em"><tspan x="-158.76" y="0">묘지명 제작소</tspan></text>
+  </g>
+</svg>

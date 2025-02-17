@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" width="655.19" height="38.15" data-name="레이어_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 655.19 38.15">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: KoddiUDOnGothic-Regular, 'KoddiUD OnGothic';
+        font-size: 35px;
+      }
+    </style>
+  </defs>
+  <g id="button">
+    <text class="cls-1" transform="translate(0 28)"><tspan x="0" y="0">주민을 드래그하여 다른 마을로 옮겨보세요.</tspan></text>
+  </g>
+</svg>

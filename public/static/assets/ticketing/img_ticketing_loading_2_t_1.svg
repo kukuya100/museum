@@ -1,0 +1,52 @@
+<svg id="g상01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="416.741" height="429.088" viewBox="0 0 416.741 429.088">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_374" data-name="사각형 374" width="416.741" height="429.088" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="사각형_373" data-name="사각형 373" d="M24.771,0h291.6a24.773,24.773,0,0,1,24.773,24.773V163.4a24.772,24.772,0,0,1-24.772,24.772H24.771A24.771,24.771,0,0,1,0,163.406V24.771A24.771,24.771,0,0,1,24.771,0Z" transform="translate(47.885 88.541)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="사각형_371" data-name="사각형 371" width="341.145" height="158.242" transform="translate(48.089 92.532)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="사각형_372" data-name="사각형 372" width="341.145" height="104.552" transform="translate(48.089 180.132)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_360" data-name="그룹 360" clip-path="url(#clip-path)">
+    <g id="그룹_351" data-name="그룹 351">
+      <g id="그룹_350" data-name="그룹 350" clip-path="url(#clip-path)">
+        <path id="패스_1015" data-name="패스 1015" d="M20.582,29.776A29.776,29.776,0,0,1,50.358,0H29.776A29.776,29.776,0,0,0,0,29.776V324.508H20.582Z" fill="#a39d9b"/>
+        <path id="패스_1016" data-name="패스 1016" d="M386.741,0H50.582a30,30,0,0,0-30,30V324.508H48.089V306.475a14.882,14.882,0,0,1,14.882-14.882H374.352a14.882,14.882,0,0,1,14.882,14.882v18.033h27.507V30a30,30,0,0,0-30-30" fill="#f8f8f8"/>
+        <path id="패스_1017" data-name="패스 1017" d="M389.234,306.475a14.882,14.882,0,0,0-14.882-14.882H62.971a14.882,14.882,0,0,0-14.882,14.882v18.033H389.234Z" fill="#726b6a"/>
+        <path id="패스_1018" data-name="패스 1018" d="M369.075,322a7.864,7.864,0,0,0-7.864-7.864H76.111A7.864,7.864,0,0,0,68.247,322v2.506H369.075Z" fill="#3f3b3b"/>
+      </g>
+    </g>
+    <text id="TICKET" transform="translate(219 57.294)" fill="#63605e" font-size="33.544" font-family="apple sd gothic neo, Segoe UI"><tspan x="-55.423" y="0" letter-spacing="0.039em">T</tspan><tspan y="0" letter-spacing="0.04em">IC</tspan><tspan y="0" letter-spacing="0.039em">KE</tspan><tspan y="0">T</tspan></text>
+    <g id="그룹_359" data-name="그룹 359" transform="translate(0.115)">
+      <g id="그룹_358" data-name="그룹 358" clip-path="url(#clip-path-3)">
+        <rect id="사각형_370" data-name="사각형 370" width="341.145" height="340.975" transform="translate(48.089 88.113)" fill="#ebe2db"/>
+        <path id="패스_1019" data-name="패스 1019" d="M169.458,183.719a20.5,20.5,0,1,1-20.5-20.5,20.5,20.5,0,0,1,20.5,20.5" fill="#726b6a"/>
+        <path id="패스_1020" data-name="패스 1020" d="M239.458,183.719a20.5,20.5,0,1,1-20.5-20.5,20.5,20.5,0,0,1,20.5,20.5" fill="#726b6a"/>
+        <path id="패스_1021" data-name="패스 1021" d="M310.458,183.719a20.5,20.5,0,1,1-20.5-20.5,20.5,20.5,0,0,1,20.5,20.5" fill="#726b6a"/>
+        <path id="패스_1022" data-name="패스 1022" d="M166.759,181.369a20.15,20.15,0,1,1-20.15-20.15,20.15,20.15,0,0,1,20.15,20.15" fill="#bcd44a"/>
+        <path id="패스_1023" data-name="패스 1023" d="M236.759,181.369a20.15,20.15,0,1,1-20.15-20.15,20.15,20.15,0,0,1,20.15,20.15" fill="#bcb5b3"/>
+        <path id="패스_1024" data-name="패스 1024" d="M306.759,181.369a20.15,20.15,0,1,1-20.15-20.15,20.15,20.15,0,0,1,20.15,20.15" fill="#bcb5b3"/>
+        <g id="그룹_354" data-name="그룹 354" opacity="0.4">
+          <g id="그룹_353" data-name="그룹 353">
+            <g id="그룹_352" data-name="그룹 352" clip-path="url(#clip-path-4)">
+              <path id="패스_1025" data-name="패스 1025" d="M389.234,160.35,48.089,250.773V182.956L389.234,92.532Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="그룹_357" data-name="그룹 357" opacity="0.4">
+          <g id="그룹_356" data-name="그룹 356">
+            <g id="그룹_355" data-name="그룹 355" clip-path="url(#clip-path-5)">
+              <path id="패스_1026" data-name="패스 1026" d="M389.234,194.26,48.089,284.683V270.554l341.145-90.423Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
