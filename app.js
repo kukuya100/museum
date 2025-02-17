@@ -71,7 +71,7 @@ app.get("/", function (req, res) {
   res.redirect("/museumplay/goryeo-ro");
 });
 
-app.use("/museumplay/goryeo-ro", express.static("public"));
+app.use("/museumplay/goryeo-ro", express.static("public/dist"));
 // app.get('/museumplay', function(req, res) {
 //     res.redirect('https://modu.museum.go.kr/together/museum_play');
 // });
