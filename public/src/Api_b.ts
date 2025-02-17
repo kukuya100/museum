@@ -1,7 +1,7 @@
 import axios from "axios";
 export default class Api {
   static axiosInstance = axios.create({
-    baseURL: "http://3.93.178.173/museumplay/museumplay/gr",
+    baseURL: "http://127.0.0.1/museumplay/gr",
     timeout: 1000,
   });
 
