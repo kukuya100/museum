@@ -3,14 +3,14 @@ import axios from "axios";
 export default class Api {
   static baseUrl =
     process.env.NODE_ENV === "production"
-      ? "http://54.92.221.142/museumplay/"
+      ? "http://localhost:1515/museumplay/"
       : process.env.BASE_URL
       ? process.env.BASE_URL
-      : "http://54.92.221.142/museumplay/";
+      : "http://localhost:1515/museumplay/";
 
   static linkBaseUrl =
     process.env.NODE_ENV === "production"
-      ? "http://54.92.221.142/museumplay/goryeo-ro/"
+      ? "http://localhost:1515/museumplay/goryeo-ro/"
       : process.env.LINK_BASE_URL
       ? process.env.LINK_BASE_URL
       : "/";
