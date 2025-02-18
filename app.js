@@ -25,7 +25,7 @@ app.use(logger("dev"));
 
 require("./lib/config");
 
-const typeDefs = require("./api/schema");
+const typeDefs = require("./api/schema"); 
 const resolvers = require("./api/resolvers");
 
 // const AuthOperationArr = [

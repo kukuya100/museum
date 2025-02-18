@@ -1,7 +1,7 @@
 import axios from "axios";
 export default class Api {
   static axiosInstance = axios.create({
-    baseURL: "https://modu.museum.go.kr/museumplay/gr",
+    baseURL: "http://54.92.221.142/museumplay/gr",
     timeout: 1000,
   });
 
