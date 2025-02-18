@@ -10,9 +10,9 @@ export default class Api {
 
   static linkBaseUrl =
     process.env.NODE_ENV === "production"
-      ? "http://localhost:1515/museumplay/goryeo-ro/"
+      ? "http://54.92.221.142/museumplay/goryeo-ro/" // server
       : process.env.LINK_BASE_URL
-      ? process.env.LINK_BASE_URL
+      ? process.env.LINK_BASE_URL 
       : "/";
 
   static axiosInstance = axios.create({
