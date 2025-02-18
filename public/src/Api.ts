@@ -3,16 +3,16 @@ import axios from "axios";
 export default class Api {
   static baseUrl =
     process.env.NODE_ENV === "production"
-      ? "http://54.92.221.142/museumplay/"
+      ? "https://modu.museum.go.kr/museumplay/"
       : process.env.BASE_URL
       ? process.env.BASE_URL
       : "http://localhost:1515/museumplay/";
 
   static linkBaseUrl =
     process.env.NODE_ENV === "production"
-      ? "http://54.92.221.142/museumplay/goryeo-ro/" // server
+      ? "https://modu.museum.go.kr/museumplay/goryeo-ro/"
       : process.env.LINK_BASE_URL
-      ? process.env.LINK_BASE_URL 
+      ? process.env.LINK_BASE_URL
       : "/";
 
   static axiosInstance = axios.create({
